@@ -46,7 +46,7 @@ download the one that fits your setup.
 
 ![](pictures/right-click.png)
 
-19. Click new file, named "helloWorld.html"
+19. Click ‘New File,’ then name them ‘helloWorld.html’ and ‘README.md. separate files.
 
 20. Next, go to GitHub. We need a repository — click ‘New,’ then in the repository name field, type ‘DSAmidterm.’ Set it to public, and then click ‘Create repository.’
 
@@ -59,23 +59,29 @@ download the one that fits your setup.
 ![](pictures/gitbash.png)
 
 
-23. Make sure you click gitbash, gitbash is colorful.
+23. Make sure you click Git Bash, Git Bash is colorful.
 
 ## Copy and Paste
 
-24. Type 'git init' then enter.
+24. Copy 'git init' then paste and enter.
 
-25. Type 'git config --global user.name "Your Name"' then enter.
+25. Copy 'git config --global user.name "Your Name"' then paste and enter.
 
-26. Type 'git config --global user.email "you@youraddress.com"' then enter.
+26. Copy 'git config --global user.email "you@youraddress.com"' then paste and enter.
 
-27. Type 'git config --global push.default matching' then enter.
+27. Copy 'git config --global push.default matching' then paste and enter.
 
-28. Type 'git config --global alias.co checkout' then enter.
+28. Copy 'git config --global alias.co checkout' then paste and enter.
 
+29. When you’re done, go to the repository and look for this.
 
+![](pictures/repository.png)
 
+30. Just copy and paste everything that’s included there.
 
+31. After that, you should see content in your GitHub repository.
+
+32. 
 
 
 
