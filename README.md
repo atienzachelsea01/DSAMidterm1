@@ -83,9 +83,15 @@ download the one that fits your setup.
 
 32. To push the new file, click Source Control, then select Conventional Commits (the circle icon). Choose ‘feat,’ select ‘none,’ click :sparkles:, then press Enter three times. then click sync changes.
 
-33. 
+33. Then, go to GitHub, reload the page, and appreciate your work.
 
+## MarkDown (.md)
 
+34. go to README.md, type '# hello world'.
+
+output:
+
+# hello world
 
 
 
