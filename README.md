@@ -93,10 +93,10 @@ output:
 
 # hello world
 
+<b> link for mdguide, basic syntax <b>
+
 35. https://www.markdownguide.org/basic-syntax/
 
-<p>This is the first line.<br>
-And this is the second line.</p>
 
 
 
