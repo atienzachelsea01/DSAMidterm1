@@ -43,6 +43,7 @@ download the one that fits your setup.
 17. Then, turn on cloud changes.
 
 18. Once all extensions are installed, right-click here.
+
 ![](pictures/right-click.png)
 
 
