@@ -93,7 +93,7 @@ output:
 
 # hello world
 
-<b> link for mdguide, basic syntax <b>
+<b> link for mdguide, basic syntax <b>/
 
 35. https://www.markdownguide.org/basic-syntax/
 
