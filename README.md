@@ -10,6 +10,7 @@ download the one that fits your setup.
 
 2. Download and install git
 https://git-scm.com/
+
 download the one that fits your setup.
 
 3. Open VS Code, then click ‘Agree’ and keep clicking ‘Next’ until it’s done.
@@ -97,7 +98,9 @@ link for mdguide, basic syntax
 
 35. https://www.markdownguide.org/basic-syntax/
 
-### I love html
+### Chelsea Jae Atienza
+
+### BSCPE 1-1
 
 
 
