@@ -61,7 +61,20 @@ download the one that fits your setup.
 
 23. Make sure you click gitbash, gitbash is colorful.
 
-24. 
+## Copy and Paste
+
+24. Type 'git init' then enter.
+
+25. Type 'git config --global user.name "Your Name"' then enter.
+
+26. Type 'git config --global user.email "you@youraddress.com"' then enter.
+
+27. Type 'git config --global push.default matching' then enter.
+
+Type 'git config --global alias.co checkout' then enter.
+
+
+
 
 
 
