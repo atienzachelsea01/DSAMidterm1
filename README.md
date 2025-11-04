@@ -20,7 +20,7 @@ download the one that fits your setup.
 
 6. Make sure you have github account
 
-7, Create a dummy file.
+7. Create a dummy file.
 
 8. Go to directory, type cmd
 
@@ -46,7 +46,22 @@ download the one that fits your setup.
 
 ![](pictures/right-click.png)
 
+19. Click new file, named "helloWorld.html"
 
+20. Next, go to GitHub. We need a repository — click ‘New,’ then in the repository name field, type ‘DSAmidterm.’ Set it to public, and then click ‘Create repository.’
+
+21. Go to 'codemy.com/git/'.
+
+![](pictures/codemy.png)
+
+22. Before entering this in your terminal, look for the drop-down button and select Git Bash.
+
+![](pictures/gitbash.png)
+
+
+23. Make sure you click gitbash, gitbash is colorful.
+
+24. 
 
 
 
