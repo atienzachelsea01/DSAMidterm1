@@ -16,7 +16,11 @@ download the one that fits your setup.
 
 4. search if your vs code and git are already install in your computer.
 
-5. 
+5. add a new folder to your desktop, name it "your name_DSAmidterms"
+
+6.  make sure you have github account
+
+
 
 
 
