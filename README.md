@@ -71,7 +71,7 @@ download the one that fits your setup.
 
 27. Type 'git config --global push.default matching' then enter.
 
-Type 'git config --global alias.co checkout' then enter.
+28. Type 'git config --global alias.co checkout' then enter.
 
 
 
