@@ -81,7 +81,9 @@ download the one that fits your setup.
 
 31. After that, you should see content in your GitHub repository.
 
-32. 
+32. To push the new file, click Source Control, then select Conventional Commits (the circle icon). Choose ‘feat,’ select ‘none,’ click :sparkles:, then press Enter three times. then click sync changes.
+
+33. 
 
 
 
