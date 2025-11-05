@@ -90,7 +90,7 @@ https://git-scm.com/ download the one that fits your setup.
 
 output:
 
-# hello world
+## hello world
 
 link for mdguide, basic syntax
 
